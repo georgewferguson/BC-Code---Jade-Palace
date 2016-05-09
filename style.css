@@ -1,0 +1,31 @@
+h1 {
+    color: #30c100;;
+    font-size: 50px;
+    font-weight: normal;
+    font-family: "Arial"
+}
+
+
+p {
+    font-weight: normal;
+}
+
+.veggie {
+    color: greenyellow
+}
+
+h3 {
+    font-weight: normal;
+}
+
+#yum {
+    color: aliceblue
+}
+
+body {
+    background: url(background_4.png);
+    font-weight: normal;
+    color: #000000;
+    font-family: "Arial";
+    text-align: center;
+}
